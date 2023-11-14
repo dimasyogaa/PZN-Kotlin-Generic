@@ -1,4 +1,4 @@
-package _10_Type_Erasure
+package _10_Type_Erasure.app
 
 /**
 
