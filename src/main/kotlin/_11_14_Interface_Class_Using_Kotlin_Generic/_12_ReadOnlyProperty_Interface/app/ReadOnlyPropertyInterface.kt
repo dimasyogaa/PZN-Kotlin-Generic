@@ -1,4 +1,4 @@
-package _11_15_Interface_Class_Using_Kotlin_Generic._12_ReadOnlyProperty_Interface.app
+package _11_14_Interface_Class_Using_Kotlin_Generic._12_ReadOnlyProperty_Interface.app
 
 import kotlin.properties.ReadOnlyProperty
 import kotlin.reflect.KProperty

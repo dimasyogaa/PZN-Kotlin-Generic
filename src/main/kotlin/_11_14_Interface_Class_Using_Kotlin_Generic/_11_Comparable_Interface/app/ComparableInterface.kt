@@ -1,4 +1,4 @@
-package _11_15_Interface_Class_Using_Kotlin_Generic._11_Comparable_Interface.app
+package _11_14_Interface_Class_Using_Kotlin_Generic._11_Comparable_Interface.app
 
 /**
 

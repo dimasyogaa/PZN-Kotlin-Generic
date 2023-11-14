@@ -1,4 +1,4 @@
-package _11_15_Interface_Class_Using_Kotlin_Generic._13_ReadWriteProperty_Interface.app
+package _11_14_Interface_Class_Using_Kotlin_Generic._13_ReadWriteProperty_Interface.app
 
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty
