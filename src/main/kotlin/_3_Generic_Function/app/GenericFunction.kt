@@ -1,4 +1,6 @@
-package _3_Generic_Function
+package _3_Generic_Function.app
+
+import _3_Generic_Function.data.Function
 
 fun main() {
     val function = Function("Dimas")

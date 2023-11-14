@@ -1,4 +1,7 @@
-package _2_Generic_Class
+package _2_Generic_Class.app
+
+import _2_Generic_Class.data.MyData
+import _2_Generic_Class.data.MyDataMultiple
 
 
 fun main() {

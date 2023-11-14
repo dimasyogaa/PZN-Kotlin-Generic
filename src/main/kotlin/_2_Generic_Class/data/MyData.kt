@@ -1,4 +1,4 @@
-package _2_Generic_Class
+package _2_Generic_Class.data
 
 /**
  * Generic Type

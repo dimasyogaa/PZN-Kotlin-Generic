@@ -1,4 +1,4 @@
-package _3_Generic_Function
+package _3_Generic_Function.data
 
 /**
  * Generic Function
