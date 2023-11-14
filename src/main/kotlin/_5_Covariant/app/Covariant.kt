@@ -2,7 +2,7 @@ package _5_Covariant.app
 
 
 /**
- * Covariant
+ * Covariant (Child -> Parent)
  * ● Covariant artinya kita bisa melakukan subtitusi subtype (child) dengan supertype (parent)
  * ● Tidak semua jenis class generic yang mendukung covariant, hanya class generic yang menggunakan
  * generic parameter type sebagai return type function
